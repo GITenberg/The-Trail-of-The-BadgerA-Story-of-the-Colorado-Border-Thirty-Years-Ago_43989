@@ -1,0 +1,37 @@
+_repo: The-Trail-of-The-BadgerA-Story-of-the-Colorado-Border-Thirty-Years-Ago_43989
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emerson, Chase
+    alias: Emerson, C. Chase
+    gutenberg_agent_id: '26009'
+    url: http://www.gutenberg.org/2009/agents/26009
+covers:
+- cover_type: archival
+  image_path: 43989-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamp, Sidford F. (Sidford Frederick)
+    alias: Hamp, Sidford Frederick
+    birthdate: 1855
+    deathdate: 1919
+    gutenberg_agent_id: '32001'
+    url: http://www.gutenberg.org/2009/agents/32001
+description: ''
+gutenberg_issued: '2013-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colorado -- History -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Colorado -- Juvenile fiction'
+- !lcsh 'Guardian and ward -- Juvenile fiction'
+- !lcsh 'Desert reclamation -- Juvenile fiction'
+title: 'The Trail of The Badger: A Story of the Colorado Border Thirty Years Ago'
+url: http://www.gutenberg.org/ebooks/43989
