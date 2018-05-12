@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32001'
     url: http://www.gutenberg.org/2009/agents/32001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43989#The-Trail-of-The-BadgerA-Story-of-the-Colorado-Border-Thirty-Years-Ago
 gutenberg_issued: '2013-10-21'
 gutenberg_type: Text
 identifiers:
